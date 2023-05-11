@@ -7,10 +7,10 @@ This website project aims to design a company website that features various and 
 &nbsp;
 ### Pages
 The website consists of four pages:
-1. Home Page
-2. Virtual Hiking Page
-3. About Us Page
-4. Contact Us Page
+* Home Page
+* Virtual Hiking Page
+* About Us Page
+* Contact Us Page
 
 #### Home
 The home page contains a user's story and their experience after watching our virtual hiking videos. It also contains an index to other pages.
