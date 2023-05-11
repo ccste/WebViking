@@ -15,7 +15,7 @@ The website consists of four pages:
 The home page contains a user's story and their experience after watching our virtual hiking videos. It also contains an index to other pages.
 
 #### Virtual Hiking
-The Virtual Hiking page contains images and basic introductions to three different outdoor locations - Hamilton Lake, Lake Ngaroto, and Pukemokemoke Reserve. If users are interested, they can click through to watch the corresponding videos on YouTube.
+The Virtual Hiking page contains images and basic introductions to three different outdoor locations - Hamilton Lake, Lake Ngaroto, and Pukemokemoke Reserve. If users are interested, they can click links jumping to watch the corresponding videos on YouTube.
 
 #### About Us
 The About Us page introduces Webviking, its objectives and goals.
