@@ -2,6 +2,7 @@
 
 ### Virtual Hiking Website
 This website project aims to design a company website that features various and different videos of Virtual Hiking or Virtual Walking. The concept is to provide visitors with the experience of taking a virtual hike or walk while in the comfort of their home, office, or environment using an interactive website solution.
+***
 
 ### Pages
 The website consists of four pages:
