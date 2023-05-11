@@ -10,7 +10,7 @@ The website consists of four pages:
 3. About Us Page
 4. Contact Us Page
 
-#### **Home**
+**Home**
 The home page contains a user's story and their experience after watching our virtual hiking videos. It also contains an index to other pages.
 
 #### Virtual Hiking
