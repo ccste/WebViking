@@ -33,4 +33,4 @@ To run this project locally, you can download or clone the repository to your lo
 
 &nbsp;
 ### Conclusion
-This website project provides a unique and interesting way of watching videos, allowing people to broaden their horizons and experience scenic spots in different places through virtual hiking. Thank you for visiting, and I hope you enjoy the website! If you have any questions about this repository, please ask me through email: lhc0546@126.com
+This website project provides a unique and interesting way of watching videos, allowing people to broaden their horizons and experience scenic spots in different places through virtual hiking. Thank you for visiting, and I hope you enjoy the website! If you have any questions about this repository, please ask me without hesitation.
